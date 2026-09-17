@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" role="img" aria-label="Drag the dark Observation Digest button up into your row of bookmarks. Do not click it.">
+<rect width="900" height="330" fill="#eceae5"/>
+<rect x="0" y="0" width="900" height="34" fill="#d6d3cd"/>
+<path d="M14 34 L14 12 Q14 6 20 6 L214 6 Q220 6 220 12 L220 34 Z" fill="#f6f5f2"/>
+<text x="32" y="25" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#1b1b1b" font-weight="normal" text-anchor="start" >Raider Observation Digest</text>
+<rect x="0" y="34" width="900" height="38" fill="#f6f5f2"/>
+<text x="20" y="58" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#9a9a92" font-weight="normal" text-anchor="start" >←   →</text>
+<rect x="72" y="42" width="808" height="22" rx="11" fill="#fff" stroke="#dcd9d3"/>
+<text x="86" y="57" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#666" font-weight="normal" text-anchor="start" >rjedtech.github.io/Raider-Observation-Digest/</text>
+<rect x="0" y="72" width="900" height="32" fill="#f6f5f2"/>
+<line x1="0" y1="104" x2="900" y2="104" stroke="#dcd9d3"/>
+<text x="20" y="93" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#444" font-weight="normal" text-anchor="start" >★ Canvas</text>
+<text x="110" y="93" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#444" font-weight="normal" text-anchor="start" >★ MyRJ</text>
+<text x="186" y="93" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#444" font-weight="normal" text-anchor="start" >★ Outlook</text>
+<rect x="266" y="78" width="112" height="21" rx="4" fill="none" stroke="#C11430" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="322" y="93" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#C11430" font-weight="bold" text-anchor="middle" >drop it here</text>
+<rect x="326" y="168" width="248" height="52" rx="8" fill="#2a2a2a"/>
+<rect x="326" y="214" width="248" height="6" rx="3" fill="#C11430"/>
+<text x="450" y="200" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle" >Observation Digest</text>
+<path d="M336 172 C 300 150, 300 125, 322 106" stroke="#C11430" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M322 106 l -8 14 l 15 -2 z" fill="#C11430"/>
+<text x="450" y="256" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" fill="#1b1b1b" font-weight="bold" text-anchor="middle" >Hold the mouse button down and drag it up into the bookmarks row.</text>
+<text x="450" y="282" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" fill="#C11430" font-weight="bold" text-anchor="middle" >Do not click it — drag it.</text>
+</svg>
