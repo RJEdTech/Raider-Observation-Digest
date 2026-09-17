@@ -22,6 +22,7 @@ One click on a page you already have open gives you:
 - **Any per-element comments**, and everything written in Overall Comments, in full
 - **Your own acknowledgement reply**, if you left one
 - **Print / Save as PDF** that drops the interface and prints clean — one element per block, nothing split across pages
+- **Light and dark** — follows your computer’s setting; the toggle on the setup page overrides it and remembers
 
 Press the bookmark again, or `Esc`, or **Close**, and you're back on the full report. Nothing about it is changed.
 
