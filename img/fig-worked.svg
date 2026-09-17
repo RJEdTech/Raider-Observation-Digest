@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="When it worked, Observation Digest appears in your bookmarks row. From then on, click it once.">
+<rect width="900" height="200" fill="#eceae5"/>
+<rect x="0" y="0" width="900" height="38" fill="#f6f5f2"/>
+<text x="20" y="24" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#9a9a92" font-weight="normal" text-anchor="start" >←   →</text>
+<rect x="72" y="8" width="808" height="22" rx="11" fill="#fff" stroke="#dcd9d3"/>
+<text x="86" y="23" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#666" font-weight="normal" text-anchor="start" >www.ieobservation.com</text>
+<rect x="0" y="38" width="900" height="32" fill="#f6f5f2"/>
+<line x1="0" y1="70" x2="900" y2="70" stroke="#dcd9d3"/>
+<text x="20" y="59" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#444" font-weight="normal" text-anchor="start" >★ Canvas</text>
+<text x="110" y="59" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#444" font-weight="normal" text-anchor="start" >★ MyRJ</text>
+<text x="186" y="59" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#444" font-weight="normal" text-anchor="start" >★ Outlook</text>
+<rect x="266" y="44" width="164" height="21" rx="4" fill="#fff8dd" stroke="#C11430" stroke-width="2"/>
+<text x="348" y="59" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#1b1b1b" font-weight="bold" text-anchor="middle" >Observation Digest</text>
+<path d="M348 96 L 348 72" stroke="#C11430" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M348 72 l -7 13 l 14 0 z" fill="#C11430"/>
+<text x="450" y="132" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#1b1b1b" font-weight="bold" text-anchor="middle" >That is what it looks like when it worked.</text>
+<text x="450" y="158" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#6E6A64" font-weight="normal" text-anchor="middle" >From now on: open your observation, then click it once.</text>
+</svg>
