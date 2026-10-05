@@ -65,6 +65,3 @@ Reading it is the easy half. The Professional Development course covers the hard
 
 This is a Regis Jesuit tool. It is not part of iObservation, not affiliated with or endorsed by the observation vendor, and not supported by them. It only reformats what is already on your screen.
 
-## Built by
-
-Jason Beyer, Director of Educational Technology — Regis Jesuit High School
