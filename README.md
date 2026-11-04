@@ -57,7 +57,9 @@ Reading it is the easy half. The Professional Development course covers the hard
 ## Notes
 
 - **Tested on:** formal observations on the Marzano-style *Standard 3: Models Ignatian Pedagogy* form.
-- **Not yet tested on:** walkthrough and informal observations, or reports that carry per-element comments. They should work; they haven't been confirmed.
+- **Also tested on:** a formal report with per-element comments and an unsigned acknowledgement (November 2026).
+- **Not yet tested on:** walkthrough and informal observations, or reports with attached files. Attached files aren't listed in the digest.
+- **Updating:** the code lives in each person's bookmark, so a fix reaches someone only when they delete the old button and drag the new one.
 - The tool reads the vendor's own page structure. A vendor redesign can break it — when that happens it shows *"Nothing to summarize"* with instructions rather than a blank screen. Tell Educational Technology and it gets fixed.
 - It deliberately does **not** paraphrase what the scale levels mean. That wording belongs to the observation framework and sits behind the **View Scale** button on the report.
 
