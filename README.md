@@ -67,3 +67,7 @@ Reading it is the easy half. The Professional Development course covers the hard
 
 This is a Regis Jesuit tool. It is not part of iObservation, not affiliated with or endorsed by the observation vendor, and not supported by them. It only reformats what is already on your screen.
 
+
+## License
+
+© 2026 Jason Beyer, RJ Ed Tech. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): free to share and adapt for non-commercial use with credit. See [LICENSE](LICENSE) for what the license does not cover.
